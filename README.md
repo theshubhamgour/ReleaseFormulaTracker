@@ -55,6 +55,9 @@ pip install streamlit openpyxl pandas
 ```bash
 streamlit run app.py
 ```
+```bash
+streamlit run app.py --server.port 5001
+```
 
 The application will start and display:
 ```
